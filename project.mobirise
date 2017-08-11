@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "catalogo.html",
     "name": "EntreLasRamas08-11",
     "theme": {
       "name": "mobirise3",
@@ -410,7 +410,7 @@
           },
           "title": "Retablos de madera",
           "text": "En la profundidad del bosque nos encontramos a estos fantasticos personajes escondidos entre las ramas de los arboles.<br>¿Cual te quieres llevar contigo?<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TAMAÑO Y PRECIOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"catalogo.html#pricing-table2-1y\" data-toolbar=\"-mbrBtnMove\">TAMAÑO Y PRECIOS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"correo.html\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a>",
           "_tags": [
             "Theme"
           ],
