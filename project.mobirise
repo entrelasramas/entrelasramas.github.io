@@ -396,7 +396,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mockupretablo-v2-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mockupretablo-v3-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
