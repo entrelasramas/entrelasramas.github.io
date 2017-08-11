@@ -721,7 +721,7 @@ h6,
 }
 #menu-1u .link[aria-expanded="true"],
 #menu-1u .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ee2b66!important;
 }
 #menu-1u.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -732,6 +732,12 @@ h6,
 #menu-1u .close-icon::before,
 #menu-1u .close-icon::after {
   background-color: #ee3166;
+}
+#msg-box2-29 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-29 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #form1-1w .form-control-label {
   color: #232323;
