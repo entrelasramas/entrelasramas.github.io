@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "catalogo.html",
+    "currentPage": "index.html",
     "name": "EntreLasRamas08-11",
     "theme": {
       "name": "mobirise3",
@@ -142,11 +142,11 @@
             "showTitle": false,
             "showText": false,
             "showButtons": false,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/intro-v2-1.png",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
             "bgVideoRadio": false,
