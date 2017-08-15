@@ -1769,7 +1769,7 @@
               "font-size": "22px"
             },
             "UL": {
-              "text-align": "left",
+              "text-align": "right",
               "font-size": "20px"
             },
             ".mbr-section__container .mbr-section-subtitle": {
@@ -1778,10 +1778,12 @@
               "text-align": "left"
             },
             "DIV": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-plan-label": {
-              "color": "#f28281"
+              "color": "#f28281",
+              "font-size": "15px"
             },
             ".mbr-price-term": {
               "font-size": "24px",
@@ -1835,17 +1837,17 @@
           "currency1": "$",
           "price1": "70mil",
           "period1": "&nbsp;COP",
-          "description1": "<b style=\"font-style: normal;\">Tamaño: 34 x 24 x 1.8 cm</b><br><b>Madera: Pino (triplex)</b><b style=\"font-style: normal;\"><br></b>",
+          "description1": "<b style=\"font-style: normal;\">Tamaño: 34 x 24 x 1.8 cm</b><br><b>Madera: Pino (triplex)</b><br><span style=\"font-style: normal;\"><br></span><br><span style=\"font-style: normal;\">+ Mas costos de envío</span><b style=\"font-style: normal;\"><br></b>",
           "list1": "",
           "button1": "<a data-app-btn=\"true\" href=\"correo.html\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a>",
-          "label2": "PRECIO ESPECIAL",
+          "label2": "<b>PRECIO ESPECIAL</b>",
           "title2": "",
           "subtitle2": "",
           "currency2": "$",
           "price2": "60mil",
           "period2": "&nbsp;COP<br>/ cada uno",
-          "description2": "En pedidos superiores&nbsp;a tres (3) unidades",
-          "list2": "<ul class=\"list-group list-group-flush\"></ul>",
+          "description2": "En pedidos superiores&nbsp;a tres (3) unidades<br><br><span style=\"font-style: normal;\">+Mas costos de envío</span>",
+          "list2": "",
           "button2": "<a data-app-btn=\"true\" href=\"correo.html\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",

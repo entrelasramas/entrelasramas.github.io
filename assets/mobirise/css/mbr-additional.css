@@ -641,7 +641,7 @@ h6,
   font-size: 22px;
 }
 #pricing-table2-1y UL {
-  text-align: left;
+  text-align: right;
   font-size: 20px;
 }
 #pricing-table2-1y .mbr-section__container .mbr-section-subtitle {
@@ -651,9 +651,11 @@ h6,
 }
 #pricing-table2-1y DIV {
   color: #000000;
+  font-size: 20px;
 }
 #pricing-table2-1y .mbr-plan-label {
   color: #f28281;
+  font-size: 15px;
 }
 #pricing-table2-1y .mbr-price-term {
   font-size: 24px;
