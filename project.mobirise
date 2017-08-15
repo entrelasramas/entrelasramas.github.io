@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "correo.html",
+    "currentPage": "Nosotros.html",
     "name": "EntreLasRamas08-11",
     "theme": {
       "name": "mobirise3",
@@ -2316,7 +2316,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "www.jfsanmiguel.com",
+              "link": "http://jfsanmiguel.com",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -2332,7 +2332,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "www.facebook.com/solucionesplegables",
+              "link": "http://facebook.com/solucionesplegables",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
