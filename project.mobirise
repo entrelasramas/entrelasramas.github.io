@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "catalogo.html",
     "name": "EntreLasRamas08-11",
     "theme": {
       "name": "mobirise3",
@@ -421,7 +421,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Retrablos<br>de madera",
+          "title": "Retablos<br>de madera",
           "text": "Conoce algunas de las criaturas<br>que se han enredado en&nbsp;este<br>bosque&nbsp;y&nbsp;de paso&nbsp;antójate y lleva<br>algunas&nbsp;a hacerte compañia",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"catalogo.html#pricing-table2-1y\" data-toolbar=\"-mbrBtnMove\">TAMAÑO Y PRECIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"correo.html\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a>"
         },
