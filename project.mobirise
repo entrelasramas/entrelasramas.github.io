@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "catalogo.html",
     "name": "EntreLasRamas08-11",
     "theme": {
       "name": "mobirise3",
@@ -1762,12 +1762,12 @@
               "border-color": "#cfcfcf"
             },
             ".mbr-plan-price-desc B": {
-              "color": "#000000",
-              "font-size": "20px"
+              "color": "#ffffff",
+              "font-size": "22px"
             },
             ".mbr-plan-price-desc": {
-              "color": "#000000",
-              "font-size": "20px"
+              "color": "#ffffff",
+              "font-size": "22px"
             },
             "UL": {
               "text-align": "left",
@@ -1785,13 +1785,16 @@
               "color": "#f28281"
             },
             ".mbr-price-term": {
-              "font-size": "20px"
+              "font-size": "24px",
+              "color": "#ffffff"
             },
             ".mbr-price-figure": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#ffffff"
             },
             ".mbr-price-value": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#ffffff"
             },
             ".mbr-section__container .mbr-section-subtitle B": {
               "text-align": "center"
@@ -1819,7 +1822,7 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
-            "firstType": "",
+            "firstType": "bg-primary",
             "showButtons": true,
             "secondType": "bg-primary",
             "thirdType": "hidden",
@@ -1827,7 +1830,7 @@
           },
           "title": "Tamaños y Precios",
           "subtitle": "<br>— Vienen <b>listos para colgar en la pared</b> sin necesidad de ser enmarcados.<br><br>— Todos nuestros retablos son impresos sobre <b>madera</b> con tintas UV (que se fijan con la luz del sol).<br><br>— Todos los retablos se producen bajo pedido, el tiempo de espera es entre <b>5 y 7 días háblies</b>.<br><br>— Enviamos a toda <b>Colombia</b>.<br><br>",
-          "label1": "HOT!",
+          "label1": "",
           "title1": "",
           "subtitle1": "",
           "currency1": "$",
@@ -1841,8 +1844,8 @@
           "subtitle2": "",
           "currency2": "$",
           "price2": "60mil",
-          "period2": "&nbsp;COP/<br>cada uno",
-          "description2": "En pedidos superiores a tres (3) unidades",
+          "period2": "&nbsp;COP<br>/ cada uno",
+          "description2": "En pedidos superiores&nbsp;a tres (3) unidades",
           "list2": "<ul class=\"list-group list-group-flush\"></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"correo.html\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a>",
           "label3": "HOT!",

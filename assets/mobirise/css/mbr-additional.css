@@ -643,12 +643,12 @@ h6,
   border-color: #cfcfcf;
 }
 #pricing-table2-1y .mbr-plan-price-desc B {
-  color: #000000;
-  font-size: 20px;
+  color: #ffffff;
+  font-size: 22px;
 }
 #pricing-table2-1y .mbr-plan-price-desc {
-  color: #000000;
-  font-size: 20px;
+  color: #ffffff;
+  font-size: 22px;
 }
 #pricing-table2-1y UL {
   text-align: left;
@@ -666,13 +666,16 @@ h6,
   color: #f28281;
 }
 #pricing-table2-1y .mbr-price-term {
-  font-size: 20px;
+  font-size: 24px;
+  color: #ffffff;
 }
 #pricing-table2-1y .mbr-price-figure {
   font-size: 48px;
+  color: #ffffff;
 }
 #pricing-table2-1y .mbr-price-value {
   font-size: 20px;
+  color: #ffffff;
 }
 #pricing-table2-1y .mbr-section__container .mbr-section-subtitle B {
   text-align: center;
