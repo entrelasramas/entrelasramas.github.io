@@ -1,0 +1,2111 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "EntreLasRamas08-11",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ee2b66",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#ee2b66",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#ee2b66",
+        "#2e2e2e"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 97,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-1.png",
+    "noImageResize": "true",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "—entre las ramas—",
+        "meta_descr": "Creamos objetos decorativos inspirados en personajes que habitan el bosque",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ee2b66!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#cccccc",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-txt-1.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">————————</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"catalogo.html\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>CATÁLOGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"correo.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-k",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/intro-beige.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"catalogo.html\" data-toolbar=\"-mbrBtnMove\">IR A CATÁLOGO</a> "
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-11",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "En la profundidad del bosque nos encontramos estos seres fantásticos  escondidos entre las ramas—",
+          "text": "<p>Somos una tienda de productos decorativos y mobiliario salidos de las profundidades más espesas del bosque</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"catalogo.html\" data-toolbar=\"-mbrBtnMove\">— VISITA NUESTRO CATÁLOGO —</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-12",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/cinta-retablos-4.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": false,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">+</a> ",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Síguenos en <br>— &nbsp;<a href=\"https://www.facebook.com/porentrelasramas/\" class=\"text-danger\" target=\"_blank\">facebook</a> +&nbsp;<a href=\"https://www.instagram.com/entrelasramas_/\" class=\"text-danger\" target=\"_blank\">instagram</a>&nbsp;—",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/porentrelasramas\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/entrelasramas_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "© 2017 — entre las ramas —"
+        }
+      ]
+    },
+    "catalogo.html": {
+      "settings": {
+        "title": "Catálogo de retablos de madera",
+        "meta_descr": "Retablos de Madera. Conoce algunas de las criaturas que se han enredado en este bosque y de paso antojate y lleva algunas a hacerte compania"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ee2b66!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-p",
+          "_params": {
+            "bgColor": "#cccccc",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-txt-blanco-210x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">————————</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"catalogo.html\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>CATÁLOGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"correo.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-2a",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mockupretablo-v4.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Retrablos<br>de madera",
+          "text": "Conoce algunas de las criaturas<br>que se han enredado en&nbsp;este<br>bosque&nbsp;y&nbsp;de paso&nbsp;antójate y lleva<br>algunas&nbsp;a hacerte compañia",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"catalogo.html#pricing-table2-1y\" data-toolbar=\"-mbrBtnMove\">TAMAÑO Y PRECIO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"correo.html\" data-toolbar=\"-mbrBtnMove\">HAZ TU PEDIDO</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0001-jackalope.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Jackalope",
+          "subtitle1": "Impresión sobre madera<br>———",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0002-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Oso de perfil<br>",
+          "subtitle2": "Impresión sobre madera<div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0002-encopetad.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<br><div>———</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0003-comadreja.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Hurón",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0004-cuervo.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Cuervo<br>",
+          "subtitle2": "Impresión sobre madera<br><div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-t",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0005-orejas-largas.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Orejas Largas",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0006-ardilla-roja.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Ardilla Roja<br>",
+          "subtitle2": "Impresión sobre madera<div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0007-cardenal-y-carpintero.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Cardenal y Carpintero",
+          "subtitle3": "Impresión sobre madera<br><div>———</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-25",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0007-cardenal-y-carpintero.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Cardenal &amp; Carpintero",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0008-encopetad.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Encopetado<br>",
+          "subtitle2": "Impresión sobre madera<div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "file:///Users/juanfelipesanmiguel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/elr-0007-cardenal-y-carpintero.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Cardenal y Carpintero",
+          "subtitle3": "Impresión sobre madera<br><div>———</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "file:///Users/juanfelipesanmiguel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "file:///Users/juanfelipesanmiguel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "file:///Users/juanfelipesanmiguel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-u",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0009-enredado.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Enredado",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0010-lemur.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Lemur<br>",
+          "subtitle2": "Impresión sobre madera<br><div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0011-perro-de-la-pradera.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Perro de la pradera",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0012-rey-oso.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Rey Oso<br>",
+          "subtitle2": "Impresión sobre madera<br><div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-w",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0013-sonrisa-de-zorro.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Carcajadas de Zorro",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0014-patas-untadas.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Patas untadas",
+          "subtitle2": "Impresión sobre madera<br><div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-x",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0015-gallo.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Gallo",
+          "subtitle1": "Impresión sobre madera<div>———</div>",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0016-roedor.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Cachetes<br>",
+          "subtitle2": "Impresión sobre madera<br><div>———</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-y",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0017-cachalote.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Cachalote",
+          "subtitle1": "Impresión sobre madera<br>———",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0018-medusas.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Medusas<br>",
+          "subtitle2": "Impresión sobre madera<br>———",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "features3-z",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0019-pulpo-v.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "xx",
+              "title": "Jackalope",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Pulpo V",
+          "subtitle1": "Impresión sobre madera<br>[Reproduccion seriada no numerada]",
+          "caption1": "Tamaño:&nbsp;<b>24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000</b> COP<br>—<br><b>+ costos de envío</b><br><i>Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0020-pulpo-h.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Pulpo H<br>",
+          "subtitle2": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption2": "Tamaño:<b> 24x34 cm</b><br>Precio: <b>$70.000 </b>COP<br>—<br>Tamaño: <b>34x48 cm</b><br>Precio: <b>$110.000 </b>COP<br>—<br><b>+ costos de envío</b><br>—<br><i style=\"line-height: 1.5;\">Para tamaños personalizados</i><br>(hasta 200 cm) <i>contactarnos para la cotización</i><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Encopetado",
+          "subtitle3": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption3": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Entre las ramas",
+          "subtitle4": "Impresión sobre madera<div>[Reproduccion seriada no numerada]</div>",
+          "caption4": "Tamaño: 24x34 cm<br>Precio: $70.000 COP<br>—<br>Tamaño: 34x48 cm<br>Precio: $110.000 COP<br>—<br>+ costos de envío<br>Para tamaños personalizados<br>(hasta 200 cm) contactarnos para la cotización<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/elr-0000-oso-de-perfil.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-plan-price-desc B": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#000000",
+              "font-size": "20px"
+            },
+            "UL": {
+              "text-align": "left",
+              "font-size": "20px"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#000000",
+              "font-size": "22px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "color": "#000000"
+            },
+            ".mbr-plan-label": {
+              "color": "#f28281"
+            },
+            ".mbr-price-term": {
+              "font-size": "20px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "48px"
+            },
+            ".mbr-price-value": {
+              "font-size": "20px"
+            },
+            ".mbr-section__container .mbr-section-subtitle B": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-1y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "hidden",
+            "fourthType": "hidden"
+          },
+          "title": "Tamaños y Precios",
+          "subtitle": "<br>— Vienen <b>listos para colgar en la pared</b> sin necesidad de ser enmarcados.<br><br>— Todos nuestros retablos son impresos sobre <b>madera</b> con tintas UV (que se fijan con la luz del sol).<br><br>— Todos los retablos se producen bajo pedido, el tiempo de espera es entre <b>5 y 7 días háblies</b>.<br><br>— Enviamos a toda <b>Colombia</b>.<br><br>",
+          "label1": "HOT!",
+          "title1": "",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "70mil",
+          "period1": "&nbsp;COP",
+          "description1": "<b style=\"font-style: normal;\">Tamaño: 34 x 24 x 1.8 cm</b><br><b>Madera: Pino (triplex)</b><b style=\"font-style: normal;\"><br></b>",
+          "list1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"correo.html\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a>",
+          "label2": "PRECIO ESPECIAL",
+          "title2": "",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "60mil",
+          "period2": "&nbsp;COP/<br>cada uno",
+          "description2": "En pedidos superiores a tres (3) unidades",
+          "list2": "<ul class=\"list-group list-group-flush\"></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"correo.html\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrBtnMove\">HACER PEDIDO</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "Description",
+          "currency3": "$",
+          "price3": "0",
+          "period3": "/mo.",
+          "description3": "More details",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "Description",
+          "currency4": "$",
+          "price4": "0",
+          "period4": "/mo.",
+          "description4": "More details",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1z",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "Síguenos en <br>— &nbsp;<a href=\"http://facebook.com/porentrelasramas\" target=\"_blank\" class=\"text-danger\">facebook</a> +&nbsp;<a href=\"https://www.instagram.com/entrelasramas_/\" class=\"text-danger\" target=\"_blank\">instagram</a>&nbsp;—",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/porentrelasramas\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/entrelasramas_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "correo.html": {
+      "settings": {
+        "title": "Haz tu pedido",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ee3166"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ee3166"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#b3b3b3"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#c4c4c4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#cccccc"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ee3166",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ee2b66!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ee3166"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-1u",
+          "_params": {
+            "bgColor": "#cccccc",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ee3166",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-txt-blanco-210x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">————————</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"catalogo.html\"><span class=\"mbri-flag mbr-iconfont mbr-iconfont-btn\"></span>CATÁLOGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"correo.html\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-1v",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "© 2017 — entre las ramas —"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-29",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": false,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-1w",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CUENTANOS CUAL ES TU PEDIDO",
+          "subtitle": "... o si tienes alguna pregunta sobre nuestros productos&nbsp;",
+          "form": {
+            "action": "tienda.entrelasramas@gmail.com",
+            "alerts": {
+              "success": "Gracias por escribirnos. Pronto recibiras un correo de vuelta con toda la información que necesitas"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "correo electrónico*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Haz tu pedido"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>"
+        }
+      ]
+    }
+  }
+}
