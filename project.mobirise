@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "correo.html",
     "name": "EntreLasRamas08-11",
     "theme": {
       "name": "mobirise3",
@@ -58,13 +58,13 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -85,7 +85,7 @@
               "background": "#f28281"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -104,7 +104,7 @@
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -313,13 +313,13 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -340,7 +340,7 @@
               "background": "#f28281"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -359,7 +359,7 @@
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -384,7 +384,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Estudio de diseño decorativo</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Estudio de diseño decorativo</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"catalogo.html\">CATÁLOGO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"correo.html\">CONTACTO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Nosotros.html\">NOSOTROS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -1954,13 +1954,13 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -1981,7 +1981,7 @@
               "background": "#f28281"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2000,7 +2000,7 @@
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2039,6 +2039,10 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-size": "20px"
             }
           },
           "_anchor": "form1-1w",
@@ -2058,7 +2062,7 @@
             "showSubTitle": true
           },
           "title": "CUENTANOS CUAL ES TU PEDIDO",
-          "subtitle": "... o si tienes alguna pregunta sobre nuestros productos&nbsp;",
+          "subtitle": "... o si tienes alguna pregunta sobre nuestros productos.<br>Escribenos y recibiras un correo confirmando tu pedido junto con un link <b>PayU</b> de pago.&nbsp;",
           "form": {
             "action": "tienda.entrelasramas@gmail.com",
             "alerts": {
@@ -2082,7 +2086,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Haz tu pedido"
+                "customTitle": "Haz tu pedido — Cuentanos que quieres pedir"
               }
             }
           },
@@ -2169,13 +2173,13 @@
               "font-size": "14px"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -2196,7 +2200,7 @@
               "background": "#f28281"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2215,7 +2219,7 @@
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2308,7 +2312,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tintaimpresa-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tintaimpresa-4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2324,7 +2328,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rujana-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rujana-4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
