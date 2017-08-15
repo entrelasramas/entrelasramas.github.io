@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="entrelasramas.com" resolutions="1x,2x" timestamp="1502810145198">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="entrelasramas.com,https://entrelasramas.github.io" resolutions="1x,2x" timestamp="1502825830262">
   <folder name="css">
-    <file name="site_global.css" crc="3922070559"/>
-    <file name="master_a-master.css" crc="233609589" ref="nosotros:catálogo"/>
-    <file name="master_a-master-logonegro.css" crc="296702460" ref="index"/>
-    <file name="master_b-master-menublanco.css" crc="3899870669" ref="mensaje-enviado:contacto"/>
-    <file name="index.css" crc="4019877683" ref="index"/>
+    <file name="site_global.css" crc="3843374631"/>
+    <file name="master_a-master-logonegro.css" crc="3989384378" ref="index"/>
+    <file name="master_b-master-menublanco.css" crc="495877402" ref="contacto:mensaje-enviado"/>
+    <file name="master_a-master.css" crc="195030278" ref="nosotros:catálogo"/>
     <file name="nosotros.css" crc="3972692322" ref="nosotros"/>
+    <file name="contacto.css" crc="3912440834" ref="contacto"/>
+    <file name="cat_logo.css" crc="499540930" ref="catálogo"/>
     <file name="mensaje-enviado.css" crc="28758282" ref="mensaje-enviado"/>
-    <file name="contacto.css" crc="289329171" ref="contacto"/>
-    <file name="cat_logo.css" crc="4049871739" ref="catálogo"/>
+    <file name="index.css" crc="65362999" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:catálogo:mensaje-enviado:nosotros"/>
@@ -24,7 +24,7 @@
     <file name="form_check.php" crc="154010282" ref="contacto"/>
     <file name="form_throttle.php" crc="266437015" ref="contacto"/>
     <file name="form_process.php" crc="512629711" ref="contacto"/>
-    <file name="form-u6363.php" crc="3784973713" ref="contacto"/>
+    <file name="form-u6363.php" crc="39459647" ref="contacto"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="244845180" ref="index"/>
@@ -63,23 +63,23 @@
     </file>
     <file name="logo-facebook.svg" crc="459523991" seo="true" ref="index:contacto:catálogo:mensaje-enviado:nosotros">
       <caption webpage="index" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="mensaje-enviado" alt=""/>
       <caption webpage="catálogo" alt=""/>
+      <caption webpage="mensaje-enviado" alt=""/>
       <caption webpage="nosotros" alt=""/>
+      <caption webpage="contacto" alt=""/>
     </file>
     <file name="logo facebook_poster_.png" crc="4211773704" ref="index"/>
     <file name="logo-instagram.svg" crc="4218617113" seo="true" ref="index:contacto:catálogo:mensaje-enviado:nosotros">
       <caption webpage="index" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="mensaje-enviado" alt=""/>
       <caption webpage="catálogo" alt=""/>
+      <caption webpage="mensaje-enviado" alt=""/>
       <caption webpage="nosotros" alt=""/>
+      <caption webpage="contacto" alt=""/>
     </file>
     <file name="logo instagram_poster_.png" crc="4037330162" ref="index"/>
     <file name="raya-3.svg" crc="4266377510" seo="true" ref="contacto:nosotros">
-      <caption webpage="contacto" alt=""/>
       <caption webpage="nosotros" alt=""/>
+      <caption webpage="contacto" alt=""/>
     </file>
     <file name="raya-3_poster_.png" crc="398601731" ref="contacto"/>
     <file name="checkboxunchecked.jpg" crc="495023700" ref="contacto">
@@ -222,9 +222,9 @@
     </file>
     <file name="raya-_poster_.png" crc="85063549" ref="nosotros"/>
   </folder>
-  <file name="index.html" crc="3965508930" seo="true" mt="1502809994516" redirect="true"/>
-  <file name="contacto.html" crc="3813516944" seo="true" mt="1502809696193" redirect="true"/>
-  <file name="catálogo.html" crc="4179398063" seo="true" mt="1502810104607" redirect="true"/>
-  <file name="mensaje-enviado.html" crc="3948416066" seo="true" mt="1502809696193" redirect="true"/>
-  <file name="nosotros.html" crc="3769862834" seo="true" mt="1502809632854" redirect="true"/>
+  <file name="index.html" crc="4264596897" seo="true" mt="1502809994516" redirect="true"/>
+  <file name="contacto.html" crc="11187889" seo="true" mt="1502819329136" redirect="true"/>
+  <file name="catálogo.html" crc="4105414782" seo="true" mt="1502810104607" redirect="true"/>
+  <file name="mensaje-enviado.html" crc="4215195739" seo="true" mt="1502809696193" redirect="true"/>
+  <file name="nosotros.html" crc="253537842" seo="true" mt="1502809632854" redirect="true"/>
 </manifest>

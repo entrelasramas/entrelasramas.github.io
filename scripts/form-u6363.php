@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitud de servidor desconocido'
 	),
 	'email' => array(
-		'from' => 'tienda.entrelasramas@gmail.com',
-		'to' => 'tienda.entrelasramas@gmail.com'
+		'from' => 'tienda.entrelasramas@yahoo.com',
+		'to' => 'tienda.entrelasramas@yahoo.com,info@entrelasramas.com,info@entrelasramas.github.io'
 	),
 	'fields' => array(
 		'custom_U6370' => array(
